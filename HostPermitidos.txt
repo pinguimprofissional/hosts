@@ -1,0 +1,13 @@
+https://certificado.sso.acesso.gov.br/login?client_id=cav.receita.fazenda.gov.br&authorization_id=19ae4c81ee2
+https://certificado.sso.acesso.gov.br/
+https://certificado.sso.acesso.gov.br
+https://sso.acesso.gov.br/login?client_id=cav.receita.fazenda.gov.br&authorization_id=19ae4c81ee2
+https://cav.receita.fazenda.gov.br/autenticacao/login
+
+
+0.0.0.0 cav.receita.fazenda.gov.br
+0.0.0.0 certificado.sso.acesso.gov.br
+0.0.0.0 sso.acesso.gov.br
+0.0.0.0 acesso.gov.br
+0.0.0.0 receita.fazenda.gov.br
+0.0.0.0 gov.br
